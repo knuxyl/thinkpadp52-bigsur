@@ -22,3 +22,4 @@ Not Tested
 
     3.5mm Audio
     Thunderbolt ports (probably works, used USBMap to fix usb)
+    Mini Display Port (probably routed to nvidia as well, so no go)
