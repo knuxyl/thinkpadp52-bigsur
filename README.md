@@ -3,6 +3,8 @@ Thinkpad P52 macOS Big Sur Opencore
 
 i7-8850H w/Quadro P3200
 
+For Monterey, delete intelbluetoothinjector from kext folder and config.plist
+
 Working
 
     Intel WiFi
