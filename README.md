@@ -10,7 +10,7 @@ Working
     Intel WiFi
     Intel Bluetooth
     Brightness Control
-    Intel HD 615
+    Intel HD 630
     Touchpad gestures
     Built In Audio
     USB-A ports
